@@ -1,4 +1,4 @@
-# Template Assignment
+# Name That Celebrity
 
 ## Problem Statement
 
