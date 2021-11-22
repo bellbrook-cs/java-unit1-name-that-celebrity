@@ -2,9 +2,15 @@
 
 ## Problem Statement
 
-## Input Description
+Given the starter code in `main`, Apply the `length` and `substring` methods to these `Strings` to produce the following output:
 
-## Sample Input/Output
+```
+Allan Alda>>>lan A
+John Wayne>>>hn Wa
+Gregory Peck>>>egory P
+```
+
+In a real implementation of this game, the idea is for a contestant to be able to guess the real name of the celebrity after the first two and last three letters are dropped from the name.
 
 ## Submission
 
